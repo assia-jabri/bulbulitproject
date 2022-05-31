@@ -10,4 +10,28 @@ L’application web est nommée BULBUL IT qui vient du fait que Bulbul est l’o
 <br>•	Les pages des leçons 
 ## Home page
 <img src="assets/partie1.png" alt="Alt text" title="Optional title" height="400" width="800">
+2/
+<img src="assets/partie2.png" alt="Alt text" title="Optional title" height="400" width="800">
+3/
+<img src="assets/partie3.png" alt="Alt text" title="Optional title" height="400" width="800">
+4/
+<img src="assets/partie4.png" alt="Alt text" title="Optional title" height="400" width="800">
+
+## languages and technologies used
+
+<br>•	HTML 
+<br>•	CSS 
+<br>•	JAVASCRIPT
+<br>•	Bootstrap 
+<br>• Svg sprite
+<br>•	Php 
+<br>•	MySQL
+<br>•	Adobe illustrator 
+<br>• ibispaint 
+<br>• Figma
+
+## Team
+Le projet est réalisé par : 
+          <br>•	Assia JABRI 
+          <br>•	Hajar HAMDAOUI 
 
