@@ -8,4 +8,6 @@ L’application web est nommée BULBUL IT qui vient du fait que Bulbul est l’o
 <br>•	La page d’accueil 
 <br>•	La page de connexion 
 <br>•	Les pages des leçons 
+## Home page
+<img src="assets/partie1.png" alt="Alt text" title="Optional title" height="400" width="800">
 
